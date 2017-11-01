@@ -1,0 +1,4 @@
+C:\Users\suman\Documents\Visual Studio 2017\Projects\DemoAuth\DemoAuth\obj\Debug\net462\DapperIdentity.csproj.DapperIdentity.exe.config
+C:\Users\suman\Documents\Visual Studio 2017\Projects\DemoAuth\DemoAuth\obj\Debug\net462\DapperIdentity.csproj.CoreCompileInputs.cache
+C:\Users\suman\Documents\Visual Studio 2017\Projects\DemoAuth\DemoAuth\obj\Debug\net462\DapperIdentity.AssemblyInfoInputs.cache
+C:\Users\suman\Documents\Visual Studio 2017\Projects\DemoAuth\DemoAuth\obj\Debug\net462\DapperIdentity.AssemblyInfo.cs
